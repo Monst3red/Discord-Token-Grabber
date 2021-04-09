@@ -8,8 +8,8 @@
 # Application:
   - Discord
   - Lightcord
-  - discordptb
-  - discordcanary
+  - discord PTB
+  - discord Canary
   - Opera Stable
   - Opera GX Stable
 
