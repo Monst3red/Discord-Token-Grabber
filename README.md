@@ -33,7 +33,7 @@
   - Opera GX
   - Brave
 
-Remove all tokens duplicate for all platform
+# Remove all tokens duplicate for all platform
 ```
 
 # Made by Monstered (Official repository)
