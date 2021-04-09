@@ -1,6 +1,6 @@
 # First Lightcord Token Grabber
 
-# [Discord RCΛ](https://discord.gg/tdCs8d448S) 
+# [Discord RCΛ](https://discord.gg/Pwnd-By-RCA) 
 
 ![Frame 1cafe movie](https://media.discordapp.net/attachments/829786162771525665/829809303900520458/EL1T3.gif)
 
