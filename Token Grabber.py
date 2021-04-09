@@ -1,6 +1,6 @@
 import requests, re, os, json
 
-Webhook_URI = "https://discord.com/api/webhooks/829512491410259989/lPepcpeXlN7aVDh6DXEO0aIi4l9NMYBccL7jM8_WmTPk_M1iHNVmGlk0WOM98UoLmWgz"
+Webhook_URI = ""
 
 TokenList = []
 
